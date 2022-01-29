@@ -1,7 +1,6 @@
 package creational.factory;
 
-import com.codewithmosh.factory.matcha.Controller;
-import com.codewithmosh.factory.sharp.SharpController;
+import creational.factory.sharp.SharpController;
 
 import java.util.HashMap;
 import java.util.Map;
